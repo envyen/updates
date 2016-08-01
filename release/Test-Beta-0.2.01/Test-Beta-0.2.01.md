@@ -1,1 +1,1 @@
-Test Alpha release notes
+Test Beta release notes
