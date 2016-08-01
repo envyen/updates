@@ -10,4 +10,14 @@
         <firmware>https://github.com/envyen/updates/raw/master/release/Test-Alpha-0.1.55/Test-Alpha-0.1.55.bin</firmware>
         <notes>https://raw.githubusercontent.com/envyen/updates/master/release/Test-Alpha-0.1.55/Test-Alpha-0.1.55.md</notes>
     </package>
+    <package>
+        <id>2</id>
+        <name>Beta</name>
+        <version>0.2.01</version>
+        <device>Devkit.B</device>
+        <description>Beta release description</description>
+        <md5>4414226693e7ae79896086f0768d8c9a</md5>
+        <firmware>https://github.com/envyen/updates/raw/master/release/Test-Beta-0.2.01/Test-Beta-0.2.01.bin</firmware>
+        <notes>https://github.com/envyen/updates/raw/master/release/Test-Beta-0.2.01/Test-Beta-0.2.01.md</notes>
+    </package>
 </releases>
