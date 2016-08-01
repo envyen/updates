@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releases>
+    <package>
+        <id>1</id>
+        <name>Alpha</name>
+        <version>0.1.55</version>
+        <device>DevKit.A,Devkit.B</device>
+        <description>Alpha release description</description>
+        <md5>506358ee8a124d0f4c8e61cd64233260</md5>
+        <firmware>https://github.com/envyen/updates/raw/master/release/Test-Alpha-0.1.55/Test-Alpha-0.1.55.bin</firmware>
+        <notes>https://raw.githubusercontent.com/envyen/updates/master/release/Test-Alpha-0.1.55/Test-Alpha-0.1.55.md</notes>
+    </package>
+</releases>
