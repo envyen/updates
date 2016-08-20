@@ -3,14 +3,14 @@
         "title": "Dawn of the Planet of the Apes",
         "image": "http://api.androidhive.info/json/movies/1.jpg",
         "rating": 8.3,
-        "releaseYear": "18 July 2014",
+        "releaseYear": 2014,
         "genre": ["Action", "Drama", "Sci-Fi"]
     },
     {
         "title": "Kill Bill: Vol. 1",
         "image": "http://api.androidhive.info/json/movies/12.jpg",
         "rating": 8.2,
-        "releaseYear": "10 Feb 2003",
+        "releaseYear": 2012,
         "genre": ["Action", "Crime"]
     }
 ]
